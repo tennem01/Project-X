@@ -6,7 +6,7 @@ description: "ants"
 baseurl: "/Project-X" 
 url: "http://tennem01.github.io" 
 github_username:  tennem01 
-project_repository: Project-Blog 
+project_repository: Project-X
 disqus_shortname: project-pages 
 # Build settings 
 # Don't change these variables 
